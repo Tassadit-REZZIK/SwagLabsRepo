@@ -2718,3 +2718,158 @@
 21:29:48.080 [main] INFO  org.qaway.base.CommonAPI - test failed
 21:29:48.586 [main] INFO  org.qaway.base.CommonAPI - take screenshot
 21:29:49.395 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:18:07.780 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:18:10.033 [main] INFO  org.qaway.TestUI - page title validation succes
+23:18:10.307 [main] INFO  org.qaway.pages.LoginPage - cheking image field is displayed ...
+23:18:10.368 [main] INFO  org.qaway.TestUI - image field is displayed
+23:18:10.369 [main] INFO  org.qaway.pages.LoginPage - cheking credentials is displayed ...
+23:18:10.419 [main] INFO  org.qaway.TestUI - credentials is displayed
+23:18:10.419 [main] INFO  org.qaway.pages.LoginPage - cheking login password field is displayed ...
+23:18:10.458 [main] INFO  org.qaway.TestUI - login password field is displayed
+23:18:10.458 [main] INFO  org.qaway.pages.LoginPage - cheking wrapper field is displayed ...
+23:18:10.498 [main] INFO  org.qaway.TestUI - login wrapper field is displayed
+23:18:10.997 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:18:11.455 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:18:13.561 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:18:14.226 [main] INFO  org.qaway.TestLogin - page title validation succes
+23:18:19.848 [main] INFO  org.qaway.TestLogin - login button click succes
+23:18:23.963 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:18:24.417 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:18:26.640 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:18:27.344 [main] INFO  org.qaway.TestLogin - page title validation succes
+23:18:28.178 [main] INFO  org.qaway.TestLogin - login button click succes
+23:18:29.408 [main] INFO  org.qaway.pages.HomePage - get products
+23:18:29.457 [main] INFO  org.qaway.TestLogin - home page title validation success
+23:18:29.506 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:18:29.954 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:18:32.174 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:18:32.639 [main] INFO  org.qaway.TestLogin - page title validation succes
+23:18:33.159 [main] INFO  org.qaway.TestLogin - login button click succes
+23:18:33.336 [main] INFO  org.qaway.pages.HomePage - click on hamburger menu success
+23:18:38.627 [main] INFO  org.qaway.pages.HomePage - click on about link success
+23:18:38.637 [main] INFO  org.qaway.TestLogin - current url: https://saucelabs.com/
+23:18:40.744 [main] INFO  org.qaway.pages.SLHomePage - accept cookies success
+23:18:41.227 [main] INFO  org.qaway.pages.SLHomePage - click on video link success
+23:18:41.313 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:18:41.705 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:18:43.432 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:18:43.903 [main] INFO  org.qaway.pages.LoginPage - login process success
+23:18:43.908 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+23:18:45.394 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:18:45.721 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:18:47.618 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:18:48.083 [main] INFO  org.qaway.pages.LoginPage - login process success
+23:18:48.084 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+23:18:48.725 [main] INFO  org.qaway.pages.HomePage - Name A to Z select success
+23:18:49.025 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:18:49.404 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:18:51.366 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:18:51.870 [main] INFO  org.qaway.pages.LoginPage - login process success
+23:18:51.870 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+23:18:52.702 [main] INFO  org.qaway.pages.HomePage - price high to low select success
+23:18:52.962 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:18:53.350 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:18:55.341 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:18:55.819 [main] INFO  org.qaway.pages.LoginPage - login process success
+23:18:55.819 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+23:18:56.887 [main] INFO  org.qaway.pages.HomePage - Name Z to A select success
+23:18:57.190 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:18:57.566 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:18:59.391 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:18:59.909 [main] INFO  org.qaway.pages.LoginPage - login process success
+23:19:00.326 [main] INFO  org.qaway.pages.HomePage - click on hamburger menu success
+23:19:02.337 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+23:19:03.344 [main] INFO  org.qaway.pages.HomePage - click on about link success
+23:19:03.359 [main] INFO  org.qaway.TestMenu - current url: https://saucelabs.com/
+23:19:03.499 [main] INFO  org.qaway.pages.SLHomePage - click on video link success
+23:19:03.500 [main] INFO  org.qaway.pages.SLCommunityPage - light video displayed success
+23:19:03.847 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:19:04.259 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:19:07.005 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:19:07.716 [main] INFO  org.qaway.pages.LoginPage - login process success
+23:19:07.716 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+23:19:18.746 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:19:19.208 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:19:20.937 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:19:21.394 [main] INFO  org.qaway.pages.LoginPage - login process success
+23:19:21.554 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:19:21.945 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:19:23.866 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:19:23.875 [main] INFO  org.qaway.TestEndToEnd - user is going to login
+23:19:24.333 [main] INFO  org.qaway.pages.LoginPage - login process success
+23:19:24.333 [main] INFO  org.qaway.TestEndToEnd - user logged in successfully
+23:19:24.333 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+23:19:24.467 [main] INFO  org.qaway.TestEndToEnd - user is going to add item
+23:19:25.545 [main] INFO  org.qaway.TestEndToEnd - user has added item successfully 
+23:19:35.374 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:19:35.748 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:19:37.685 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:19:38.147 [main] INFO  org.qaway.TestResetAppState - login button click success
+23:19:39.511 [main] INFO  org.qaway.pages.HomePage - click on hamburger menu success
+23:19:41.581 [main] INFO  org.qaway.pages.HomePage - click on reset AppState success
+23:19:43.669 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:19:43.987 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:19:45.919 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:19:46.526 [main] INFO  org.qaway.TestLogout - login button click success
+23:19:46.916 [main] INFO  org.qaway.pages.HomePage - click on hamburger menu success
+23:19:49.003 [main] INFO  org.qaway.pages.HomePage - click on reset AppState success
+23:19:51.021 [main] INFO  org.qaway.TestLogout - current url: https://www.saucedemo.com/
+23:19:54.057 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:19:54.493 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:19:56.379 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:19:56.869 [main] INFO  org.qaway.pages.LoginPage - login process success
+23:19:57.044 [main] INFO  org.qaway.pages.HomePage - click on hamburger menu success
+23:19:59.053 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+23:20:01.047 [main] INFO  org.qaway.pages.HomePage - click on about link success
+23:20:02.127 [main] INFO  org.qaway.pages.HomePage - click on search button success
+23:20:05.262 [main] INFO  org.qaway.pages.HomePage - typing text into search field
+23:20:05.638 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:20:06.566 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:20:08.265 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:20:10.063 [main] INFO  org.qaway.TestLoginUsingDataBase - login button click succes
+23:20:10.067 [main] INFO  org.qaway.pages.HomePage - get products
+23:20:10.114 [main] INFO  org.qaway.TestLoginUsingDataBase - home page title validation success
+23:20:10.160 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:20:10.553 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:20:12.559 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:20:12.566 [main] INFO  org.qaway.TestContinueShopping - user is going to login
+23:20:13.077 [main] INFO  org.qaway.pages.LoginPage - login process success
+23:20:13.078 [main] INFO  org.qaway.TestContinueShopping - user logged in successfully
+23:20:13.078 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+23:20:13.201 [main] INFO  org.qaway.TestContinueShopping - user is going to add item
+23:20:14.279 [main] INFO  org.qaway.TestContinueShopping - user has added item1 successfully 
+23:20:14.347 [main] INFO  org.qaway.TestContinueShopping - user has added item2 successfully 
+23:20:16.546 [main] INFO  org.qaway.pages.HomePage - filter drop down success
+23:20:16.645 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:20:17.087 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:20:18.932 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:20:19.390 [main] INFO  org.qaway.pages.LoginPage - login process success
+23:20:19.394 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+23:20:22.158 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:20:22.565 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:20:24.497 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:20:24.968 [main] INFO  org.qaway.pages.LoginPage - login process success
+23:20:25.120 [main] INFO  org.qaway.pages.HomePage - click on hamburger menu success
+23:20:27.132 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+23:20:28.188 [main] INFO  org.qaway.pages.HomePage - click on about link success
+23:20:41.294 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:20:41.294 [main] INFO  org.qaway.base.CommonAPI - test failed
+23:20:41.678 [main] INFO  org.qaway.base.CommonAPI - take screenshot
+23:20:42.097 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:20:44.235 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:20:44.243 [main] INFO  org.qaway.TestHandleAlert - user is going to login
+23:20:44.726 [main] INFO  org.qaway.pages.LoginPage - login process success
+23:20:44.726 [main] INFO  org.qaway.TestHandleAlert - user logged in successfully
+23:20:44.816 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:20:44.816 [main] INFO  org.qaway.base.CommonAPI - test failed
+23:20:45.574 [main] INFO  org.qaway.base.CommonAPI - take screenshot
+23:20:45.970 [main] INFO  org.qaway.base.CommonAPI - browser close success
+23:20:47.944 [main] INFO  org.qaway.base.CommonAPI - browser open success
+23:20:48.434 [main] INFO  org.qaway.pages.LoginPage - login process success
+23:20:48.629 [main] INFO  org.qaway.pages.HomePage - click on hamburger menu success
+23:20:50.631 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+23:20:51.671 [main] INFO  org.qaway.pages.HomePage - click on about link success
+23:20:51.848 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+23:20:51.848 [main] INFO  org.qaway.base.CommonAPI - test failed
+23:20:52.537 [main] INFO  org.qaway.base.CommonAPI - take screenshot
+23:20:52.930 [main] INFO  org.qaway.base.CommonAPI - browser close success
